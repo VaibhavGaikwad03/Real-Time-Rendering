@@ -1,9 +1,0 @@
-Program started successfully.
-OPENGL INFORMATION
-******************
-OpenGL Vendor: ATI Technologies Inc.
-OpenGL Renderer: Radeon RX 560X
-OpenGL Version: 4.6.14761 Compatibility Profile Context 21.30.23.04 30.0.13023.4001
-******************
-initialize() completed successfully.
-Program terminated successfully
