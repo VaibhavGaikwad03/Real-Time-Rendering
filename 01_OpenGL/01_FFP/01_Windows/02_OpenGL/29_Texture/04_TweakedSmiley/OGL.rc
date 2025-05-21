@@ -1,0 +1,4 @@
+#include "OGL.h"
+
+MYICON ICON amc.ico
+IDBITMAP_SMILEY BITMAP Smiley.bmp

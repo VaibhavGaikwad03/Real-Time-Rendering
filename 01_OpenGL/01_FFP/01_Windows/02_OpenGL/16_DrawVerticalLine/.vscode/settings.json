@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "drawhorizontalline.h": "c",
+        "drawverticalline.h": "c"
+    }
+}
